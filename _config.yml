@@ -1403,6 +1403,9 @@ navigation:
     "*spreadsheet/functionality/validation":
         title: "Validation"
         position: 4
+    "*spreadsheet/functionality/formulas-and-functions":
+        title: "Formulas and Functions"
+        position: 5		
     "*spreadsheet/client-side-programming/objects":
         title: "Objects"
         position: 0
